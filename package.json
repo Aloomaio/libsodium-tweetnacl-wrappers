@@ -1,14 +1,13 @@
 {
   "name": "libsodium-tweetnacl-wrappers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "libsodium_version": "1.0.16",
   "author": "Aloomaio <support@alooma.io>",
   "license": "MIT",
   "main": "dist/modules-sumo/libsodium-tweetnacl-wrappers.js",
   "description": "Lib Sodium wrapped in TweetNacl api",
   "dependencies": {
-    "libsodium-sumo": "^0.7.4",
-    "typedarray-to-buffer": "^3.1.5"
+    "libsodium-sumo": "^0.7.4"
   },
   "repository": {
     "type": "git",
