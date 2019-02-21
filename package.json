@@ -1,5 +1,5 @@
 {
-  "name": "libsodium-tweetnacl-wrappers",
+  "name": "tweetnacl",
   "version": "1.0.1",
   "libsodium_version": "1.0.16",
   "author": "Aloomaio <support@alooma.io>",
